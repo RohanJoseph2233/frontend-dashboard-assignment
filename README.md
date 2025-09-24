@@ -110,6 +110,26 @@ CORS & environment variables used for security.
 
 
 
+📸 Screenshots
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-24 151651" src="https://github.com/user-attachments/assets/535ca0ea-9622-4337-93c9-741191b1f2b0" />
+
+
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-24 151637" src="https://github.com/user-attachments/assets/f2113357-dd5b-4637-8630-bde08a6c14ed" />
+
+
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-24 151614" src="https://github.com/user-attachments/assets/15031dac-3676-47d0-9e8e-01f535ab8c70" />
 
 
 

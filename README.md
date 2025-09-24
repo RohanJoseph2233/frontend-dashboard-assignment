@@ -133,4 +133,34 @@ CORS & environment variables used for security.
 
 
 
+📸 terminal Screenshots
+
+front end 
+
+<img width="1603" height="324" alt="Screenshot 2025-09-24 155358" src="https://github.com/user-attachments/assets/41238dad-a59b-4032-92e8-9c94d61f434a" />
+
+
+
+backend
+
+
+
+<img width="1601" height="264" alt="Screenshot 2025-09-24 155910" src="https://github.com/user-attachments/assets/cead0094-9519-4ea3-860f-cc3927bc3997" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
